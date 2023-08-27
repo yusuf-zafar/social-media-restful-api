@@ -34,7 +34,7 @@ The project follows a modular structure for better organization:
 
 ## Running the Server
 
-1. Start the server using the following command:
+Start the server using the following command:
    `npm start`
 
 The server will run on `http://localhost:5000` by default.

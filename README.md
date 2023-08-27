@@ -24,7 +24,7 @@ The project follows a modular structure for better organization:
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/social-network-api.git`
+   `git clone https://github.com/your-username/social-media-restful-api.git`
 
 2. Navigate to the project directory:
    `cd social-media-restful-api`

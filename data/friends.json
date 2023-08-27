@@ -1,0 +1,34 @@
+{
+  "friends": [
+    {
+      "id": "request2",
+      "senderUsername": "user4",
+      "recieverUsername": "user1"
+    },
+    {
+      "id": "1693128393565",
+      "senderUsername": "user1",
+      "recieverUsername": "user2"
+    }
+  ],
+  "friendRequests": [
+    {
+      "id": "1693125160741",
+      "senderUsername": "user1",
+      "recieverUsername": "user2",
+      "status": "pending"
+    },
+    {
+      "id": "1693127287861",
+      "senderUsername": "user1",
+      "recieverUsername": "user2",
+      "status": "pending"
+    },
+    {
+      "id": "1693128919009",
+      "senderUsername": "yusuf",
+      "recieverUsername": "samar",
+      "status": "pending"
+    }
+  ]
+}
